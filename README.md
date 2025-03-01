@@ -51,21 +51,6 @@ java Main
 
 4. The patient archive will be automatically updated each time a patient is discharged, and the file will be saved in the hospital folder.
 
-Project Structure
-
-## Hospital-Patient-Journal/
-│
-├── src/
-│   ├── Main.java               # Main class of the program
-│   ├── Patient.java            # Patient class
-│   ├── ArchiveManager.java     # Class for managing archives
-│   └── ...                    # Other project classes
-│
-├── hospital/                   # Folder for storing archives
-│   └── patients_archive.csv    # Archive of discharged patients
-│
-└── README.md                  # This file
-
 ## Dependencies
 
 Java 8 or higher
