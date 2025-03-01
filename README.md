@@ -53,7 +53,7 @@ java Main
 
 Project Structure
 
-Hospital-Patient-Journal/
+## Hospital-Patient-Journal/
 │
 ├── src/
 │   ├── Main.java               # Main class of the program
@@ -66,7 +66,7 @@ Hospital-Patient-Journal/
 │
 └── README.md                  # This file
 
-Dependencies
+## Dependencies
 
 Java 8 or higher
 Notes
