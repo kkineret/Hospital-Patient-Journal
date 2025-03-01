@@ -69,12 +69,13 @@ Project Structure
 ## Dependencies
 
 Java 8 or higher
-Notes
+## Notes
 
 The archive is created automatically each time a patient's status is updated to "discharged."
 The CSV file patients_archive.csv can be opened with any text editor or spreadsheet application.
 
-Developers: Maria Edinburg and Ekaterina Fedorenko
+## Developers
+Maria Edinburg and Ekaterina Fedorenko
 
 
 
