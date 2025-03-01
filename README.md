@@ -4,7 +4,7 @@ This project is designed for managing patients in a hospital. It includes functi
 ## Functionality Description
 
 1. **Main Menu**:
-   Upon launching the program, you'll be presented with the following options:
+Upon launching the program, you'll be presented with the following options:
 Welcome to the patients journal! Please choose an option: 
 1- Add a New Patient 
 2- Delete a Patient 
